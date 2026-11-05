@@ -1,0 +1,25 @@
+# Backend framework
+fastapi
+uvicorn[standard]
+
+# Data processing
+pandas
+numpy
+
+# LLM integration
+openai
+
+# Environment configuration
+python-dotenv
+
+# Data validation
+pydantic
+
+# File uploads
+python-multipart
+
+# HTTP requests
+httpx
+
+# Testing
+pytest
