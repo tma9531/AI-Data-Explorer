@@ -1,5 +1,5 @@
 # csv data for testing
-data/
+/data/
 
 # initial version of conda env
 environment.yml
